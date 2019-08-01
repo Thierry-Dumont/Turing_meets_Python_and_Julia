@@ -9,7 +9,7 @@
 ##### Adapté de _The Unknowable_ de Gregory J. Chaitin.
 (Springer, 1999, ISBN 981-4021-72-5).
 
--
+
 
 Dans le livre cité ci_dessus G. Chaitin propose une démonstration en _Lisp_
 (ainsi que des démonstrations du théorème de Godel et de son théorème sur les _programmes élégants_, également en _Lisp_).
