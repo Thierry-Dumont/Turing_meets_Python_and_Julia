@@ -23,7 +23,7 @@ Dans les deux cas, il s'agit de _notebooks jupyter_, ce qui permet d'obtenir une
 ##### Installations préalables :
 
 
-* Vous devez d'abord installer [jupyter](https://https://jupyter.org/), qui va nécessiter une installation basique de _python 3_.  
+* Vous devez d'abord installer [jupyter](https://jupyter.org/), qui va nécessiter une installation basique de _python 3_.  
 Le plus simple est d'utiliser _pip_ ou _conda_ selon vos préférences. Voir le [lien](https://jupyter.readthedocs.io/en/latest/install.html).
 
 * Le notebook python a besoin du module _inspect_ (là aussi, pip ou conda sont vos amis).
