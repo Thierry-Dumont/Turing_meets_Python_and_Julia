@@ -1,8 +1,8 @@
-# Turing_meets_Python_and_Julia
+# Turing meets Python and Julia
 
 
 
-### Halting Theorem (Théorème de l'Arrêt) de Turing en Python et en Julia.
+### Théorème de l'Arrêt  (Halting Theorem, 1937) de Turing en Python et en Julia.
 
 (Apologize for using French; translation is easy, but I am lazzy).
 
@@ -11,8 +11,8 @@
 
 
 
-Dans le livre cité ci_dessus G. Chaitin propose une démonstration en _Lisp_
-(ainsi que des démonstrations du théorème de Godel et de son théorème sur les _programmes élégants_, également en _Lisp_).
+Dans le livre cité ci-dessus G. Chaitin propose une démonstration en _Lisp_
+du [théorème de l'Arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt) (ainsi que des démonstrations du théorème de Godel et de son théorème sur les _programmes élégants_, également en _Lisp_).
 
 Il m'a paru plus accessible de donner des présentations en Python et en Julia, ces deux langages étant bien adaptés. Et puis c'est un exercice amusant !
 
@@ -32,12 +32,12 @@ Le plus simple est d'utiliser _pip_ ou _conda_ selon vos préférences. Voir le 
 
 ##### Exécution des notebooks:
 
-Il suffit de lancer jupyteren ligne de commande  dans le répertoire où vous avez cloné ce _repository_:
+Il suffit de lancer jupyter en ligne de commande  dans le répertoire où vous avez cloné ce _repository_:
 
 ```
 
 >jupyter notebook
 ```
-et voilà.
+et voilà, la suite est évidente.
 
 
