@@ -2,7 +2,7 @@
 
 
 
-### Théorème de l'Arrêt  (Turing Halting Theorem, 1937) en Python et en Julia.
+### Théorème de l'Arrêt  (Turing Halting Theorem, 1936) en Python et en Julia.
 
 (Apologize for using French; translation is easy, but I am lazzy).
 
