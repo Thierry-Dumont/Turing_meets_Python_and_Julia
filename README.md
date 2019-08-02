@@ -26,7 +26,7 @@ Dans les deux cas, il s'agit de _notebooks jupyter_, ce qui permet d'obtenir une
 * Vous devez d'abord installer [jupyter](https://jupyter.org/), qui va nécessiter une installation basique de _python 3_.  
 Le plus simple est d'utiliser _pip_ ou _conda_ selon vos préférences. Voir le [lien](https://jupyter.readthedocs.io/en/latest/install.html).
 
-* Le notebook python a besoin du module _inspect_ (là aussi, pip ou conda sont vos amis).
+* Le notebook python a besoin du module _inspect_ (là aussi, pip ou conda sont vos amis s'il n'est pas déjà installé).
 
 * Pour le notebook Julia, vous devez d'abord installer... Julia. Le mieux est d'installer une version stable récente depuis le [site Julia](https://julialang.org/). Il faut ensuite installer [IJulia](https://github.com/JuliaLang/IJulia.jl), qui est le _noyau_ pour jupyter.
 
