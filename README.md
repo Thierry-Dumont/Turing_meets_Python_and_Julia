@@ -40,4 +40,4 @@ Il suffit de lancer jupyter en ligne de commande  dans le répertoire où vous a
 ```
 et voilà, la suite est évidente.
 
-
+*Ne pas* tenter de visualiser les notebooks dans cette page github: ça ne foctionne pas (bug ?).
