@@ -16,7 +16,7 @@ du [théorème de l'Arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27a
 
 Il m'a paru plus accessible de donner des présentations en Python et en Julia, ces deux langages étant bien adaptés. Et puis c'est un exercice amusant !
 
-#### Comment éxécuter ces programmes ?
+#### Comment exécuter ces programmes ?
 
 Dans les deux cas, il s'agit de _notebooks jupyter_, ce qui permet d'obtenir une version discursive des programmes.
 
