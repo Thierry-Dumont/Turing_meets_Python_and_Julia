@@ -27,7 +27,7 @@ Dans les deux cas, il s'agit de _notebooks jupyter_, ce qui permet d'obtenir une
 Le plus simple est d'utiliser _pip_ ou _conda_ selon vos préférences. Voir le [lien](https://jupyter.readthedocs.io/en/latest/install.html).
 
 
-* Pour le notebook Julia, vous devez d'abord installer... Julia. Le mieux est d'installer une version stable récente depuis le [site Julia](https://julialang.org/). Il faut ensuite installer [IJulia](https://github.com/JuliaLang/IJulia.jl), qui est le _noyau_ pour jupyter, puis installer IJulia (depuis julia).
+* Pour le notebook Julia, vous devez d'abord installer... Julia. Le mieux est d'installer une version stable récente depuis le [site Julia](https://julialang.org/). Il faut ensuite installer [IJulia]( (c'est un package julia) depuis julia.
 
 ##### Exécution des notebooks:
 
