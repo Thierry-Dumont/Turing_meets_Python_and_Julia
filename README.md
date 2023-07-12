@@ -39,4 +39,4 @@ Il suffit de lancer jupyter en ligne de commande  dans le répertoire où vous a
 ```
 et voilà, la suite est évidente.
 
-* N'oubliez pas de décommenter la ligne Turing(Turing) --celle qui boucle ! c'est commenté pour faire plaisir à github.--
+* N'oubliez pas de décommenter la ligne Turing() --celle qui boucle ! c'est commenté pour faire plaisir à github.--
